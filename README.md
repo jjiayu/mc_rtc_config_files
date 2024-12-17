@@ -1,5 +1,7 @@
 # mc_rtc_config_files
-repository for mc_rtc_files
+repository for mc_rtc config files
+
+**To make effective, clone the repo in /home/.config, and rename the repo as mc_rtc**
 
 
 ### mc-rtc.yaml
